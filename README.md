@@ -4,6 +4,8 @@ Menganalisis **faktor demografis** dan **lingkungan kerja** yang memengaruhi kes
 
 Proyek ini menjawab empat pertanyaan riset utama dan membuat model machine‑learning untuk memprediksi apakah responden akan **mencari bantuan kesehatan mental**.
 
+Proyek ini menggunakan dataset "Mental Health in Tech Survey". (https://www.kaggle.com/osmi/mental-health-in-tech-survey)
+
 ---
 
 ## ❓ Pertanyaan Penelitian
@@ -30,7 +32,7 @@ Proyek ini menjawab empat pertanyaan riset utama dan membuat model machine‑lea
   -survey.csv
 - notebooks
   - MentalhealthAnalysis.ipynb
-_ README.md
+- README.md
 
 ---
 
